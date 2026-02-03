@@ -1,2 +1,3 @@
 # conversor-monedas-one
-## Conversor de Colones a Dolares y viceversa
+## Conversor de Colones Costarricenses a Dolares Estadunidenses
+## Conversor de Dolares Estadunidense a Colones Costarricense
